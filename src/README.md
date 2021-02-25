@@ -1,4 +1,4 @@
-This directory contains all the .py files. \n
+This directory contains all the .py files.
 
 The code for all the tasks related to "Part 1: Spark RDD API" are present in Part_1_Spark_RDD_API.py file
 
