@@ -5,7 +5,7 @@ This coding challenge is to simulate concrete data engineering scenarios arising
 2.) Applied machine learning
 
 
-This repo contains following directories
+Further, this repo contains following directories
 
 src: This directory contains all .py files related to the tasks.
 
